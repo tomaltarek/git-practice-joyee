@@ -1,3 +1,5 @@
 This log will track all changes 
 
 Commit 2: Adding this line 
+
+some moron added this line
