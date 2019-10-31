@@ -1,5 +1,9 @@
 This log will track all changes 
 
 Commit 2: Adding this line 
+<<<<<<< HEAD
 
 some moron added this line
+=======
+Genuine modifications from feature-3
+>>>>>>> feature-3
