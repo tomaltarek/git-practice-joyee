@@ -1,3 +1,4 @@
 This log will track all changes 
 
 Commit 2: Adding this line 
+Genuine modifications from feature-3
